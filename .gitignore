@@ -1,0 +1,19 @@
+# Бинарники
+/bin/
+*.exe
+
+# Go
+*.test
+*.out
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Env
+.env
